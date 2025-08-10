@@ -1,6 +1,7 @@
 // Garrett Brunsch
 // Lab #7 - Abstract & Interface
-// Due 8/4/25class Army implements Constants
+// Due 8/4/25
+class Army implements Constants
 
 {
     private String armyName = DEFAULT_NAME;
@@ -182,3 +183,4 @@
     }
 
 }
+

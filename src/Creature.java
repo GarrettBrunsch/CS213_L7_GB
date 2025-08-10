@@ -1,3 +1,7 @@
+// Garrett Brunsch
+// Lab #7 - Abstract & Interface
+// Due 8/4/25
+
 public abstract class Creature implements Constants
 {
     protected String name;
@@ -102,4 +106,5 @@ public abstract class Creature implements Constants
     {
         return "creature";
     }
+
 }

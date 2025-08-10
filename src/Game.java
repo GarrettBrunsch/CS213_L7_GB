@@ -1,3 +1,7 @@
+// Garrett Brunsch
+// Lab #7 - Abstract & Interface
+// Due 8/4/25
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
@@ -185,4 +189,5 @@ class Game implements Constants
         writer.write(battleLog.toString());
         writer.close();
     }
+
 }

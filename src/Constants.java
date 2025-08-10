@@ -1,3 +1,7 @@
+// Garrett Brunsch
+// Lab #7 - Abstract & Interface
+// Due 8/4/25
+
 import java.util.Random;
 
 public interface Constants
@@ -29,4 +33,5 @@ public interface Constants
     public static final int DEFAULT_ARMY_SIZE = MIN_ARMY_SIZE;
     public static final String ARMY_1_NAME = "Army #1";
     public static final String ARMY_2_NAME = "Army #2";
+
 }

@@ -1,4 +1,7 @@
-class Army implements Constants
+// Garrett Brunsch
+// Lab #7 - Abstract & Interface
+// Due 8/4/25class Army implements Constants
+
 {
     private String armyName = DEFAULT_NAME;
     private int armySize = DEFAULT_ARMY_SIZE;
@@ -177,4 +180,5 @@ class Army implements Constants
 
         return result;
     }
+
 }

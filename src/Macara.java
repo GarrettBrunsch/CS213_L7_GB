@@ -1,3 +1,7 @@
+// Garrett Brunsch
+// Lab #7 - Abstract & Interface
+// Due 8/4/25
+
 class Macara extends Creature implements Constants
 {
     public Macara()
@@ -33,4 +37,5 @@ class Macara extends Creature implements Constants
     {
         return "macara";
     }
+
 }

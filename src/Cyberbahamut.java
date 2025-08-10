@@ -1,3 +1,7 @@
+// Garrett Brunsch
+// Lab #7 - Abstract & Interface
+// Due 8/4/25
+
 class Cyberbahamut extends Bahamut
 {
     public Cyberbahamut()
@@ -21,5 +25,6 @@ class Cyberbahamut extends Bahamut
     {
         return "cyberbahamut";
     }
+
 
 }
